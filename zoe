@@ -1,5 +1,7 @@
+#!/usr/bin/env python3
 import s
 
 if __name__ == "__main__":
     s.main()
 ##saw shi lar  
+
